@@ -1,4 +1,4 @@
-@extends('../layouts/tmp')
+@extends('../layouts/app')
 @section('title', $title)
 @section('content')
     <h2>{{ $title }}</h2>
